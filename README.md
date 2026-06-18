@@ -4,21 +4,18 @@ Técnica em Desenvolvimento de Sistemas – SENAI
 
 ## Sobre mim
 
-🎓 Sou estudante do Ensino Médio e do curso Técnico em Desenvolvimento de Sistemas pelo SENAI. Tenho grande interesse em seguir carreira em Análise e Desenvolvimento de Sistemas, com foco em engenharia de dados, inteligência artificial e soluções tecnológicas de alto impacto.
+Sou estudante do Ensino Médio e do curso Técnico em Desenvolvimento de Sistemas pelo SENAI. Tenho grande interesse em seguir carreira em Análise e Desenvolvimento de Sistemas, com foco em engenharia de dados, inteligência artificial e soluções tecnológicas de alto impacto.
 
-💻 Atualmente, venho consolidando conhecimentos sólidos em:
 - **Lógica e fundamentos** de Desenvolvimento de Sistemas
 - **Análise, modelagem e organização** de dados
 - **Segurança Cibernética** aplicada e uso responsável da tecnologia
 
-📊 **Análise de Dados:** Formação em **Microsoft Power BI** e **Excel**, com foco em extração de valor, criação de dashboards e suporte à tomada de decisões baseada em dados.
+**Análise de Dados:** Formação em **Microsoft Power BI** e **Excel**, com foco em extração de valor, criação de dashboards e suporte à tomada de decisões baseada em dados.
 
-🤖 **Inteligência Artificial (IA):** Amplo conjunto de certificações (Google, DIO e SENAI) cobrindo desde os fundamentos teóricos até aplicações modernas:
+**Inteligência Artificial (IA):** Amplo conjunto de certificações (Google, DIO e SENAI) cobrindo desde os fundamentos teóricos até aplicações modernas:
 - **IA Generativa e LLMs:** Compreensão de Machine Learning, Engenharia de Prompts e uso de Agentes/Copilotos.
 - **Negócios e Inovação:** Aplicação prática de IA para Marketing (Google) e metodologias de Liderança de Alta Performance (Santander Open Academy).
 - **Desenvolvimento Ético:** Certificada em Ética na IA e impactos socioeconômicos da tecnologia.
-
-🌱 **Sustentabilidade e Futuro (ESG):** Visão de futuro alinhada às práticas de mercado, com conhecimentos em Economia Circular e Descarbonização corporativa.
 
 Busco constantemente evoluir minhas habilidades técnicas através de projetos práticos. Acredito que a tecnologia e a inovação, quando guiadas pela ética, são as ferramentas mais potentes para transformar realidades.
 
