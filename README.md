@@ -13,8 +13,6 @@ Técnica em Desenvolvimento de Sistemas – 2/4
 
 📊 Possuo formação complementar em **Microsoft Power BI**, com foco em análise de dados, visualização de informações e apoio à tomada de decisões.
 
-⚖️ Também possuo certificação em **Ética na Inteligência Artificial**, compreendendo o uso responsável da tecnologia, impacto social e boas práticas no desenvolvimento de soluções tecnológicas.
-
 Busco desenvolver constantemente meus conhecimentos na área de tecnologia e sistemas. Acredito que a inovação, aliada à ética e ao aprendizado contínuo, é capaz de gerar soluções eficientes, impactar pessoas positivamente e transformar realidades.
 
 ## Redes Sociais:
