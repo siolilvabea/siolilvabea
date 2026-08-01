@@ -30,8 +30,7 @@ Sou estudante do Ensino Médio e do curso Técnico em Desenvolvimento de Sistema
 - **Negócios e Inovação:** Aplicação prática de IA para Marketing (Google) e metodologias de Liderança de Alta Performance (Santander Open Academy).
 - **Desenvolvimento Ético:** Certificada em Ética na IA e impactos socioeconômicos da tecnologia.
 
-Busco constantemente evoluir minhas habilidades técnicas através de projetos práticos. Acredito que a tecnologia e a inovação, quando guiadas pela ética, são as ferramentas mais potentes para transformar realidades.
-
+Busco constantemente evoluir minhas habilidades técnicas através de projetos práticos. 
 ## Redes Sociais:
 
 <div>
