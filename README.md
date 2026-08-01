@@ -25,7 +25,7 @@ Sou estudante do Ensino Médio e do curso Técnico em Desenvolvimento de Sistema
 
 **Análise de Dados:** Formação em **Microsoft Power BI** e **Excel**, com foco em extração de valor, criação de dashboards e suporte à tomada de decisões baseada em dados.
 
-**Inteligência Artificial (IA):** Amplo conjunto de certificações (Google, DIO e SENAI) cobrindo desde os fundamentos teóricos até aplicações modernas:
+**Inteligência Artificial (IA):** Amplo conjunto de certificações (Google, Santander Open Academy DIO e SENAI) cobrindo desde os fundamentos teóricos até aplicações modernas:
 - **IA Generativa e LLMs:** Compreensão de Machine Learning, Engenharia de Prompts e uso de Agentes/Copilotos.
 - **Negócios e Inovação:** Aplicação prática de IA para Marketing (Google) e metodologias de Liderança de Alta Performance (Santander Open Academy).
 - **Desenvolvimento Ético:** Certificada em Ética na IA e impactos socioeconômicos da tecnologia.
