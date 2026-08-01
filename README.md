@@ -1,6 +1,6 @@
 # Beatriz Silva
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&color=6AA6DA&width=435&lines=Ol%C3%A1%2C+eu+sou+Beatriz+Silva!+;T%C3%A9cnica+em+Desenvolvimento+de+Sistemas;Certificada+em+Power+BI+e+Excel;Cursada+em+IA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=1000&color=6AA6DA&width=435&lines=Ol%C3%A1%2C+sou+Beatriz+Silva!;T%C3%A9cnica+em+Desenvolvimento+de+Sistemas+-+2%2F4;Certificada+em+Power+BI+e+Excel;Cursada+em+IA+pelo+Google%2C+SENAI+e+Santander+Open+Academy" alt="Typing SVG" /></a>
 
 ## Linguagens e Ferramentas
 
