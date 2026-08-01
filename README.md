@@ -1,6 +1,6 @@
 # Beatriz Silva
 
-Técnica em Desenvolvimento de Sistemas – SENAI
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&pause=1000&color=6AA6DA&width=435&lines=Ol%C3%A1%2C+eu+sou+Beatriz+Silva!+;T%C3%A9cnica+de+Desenvolvimento+de+Sistemas" alt="Typing SVG" /></a>
 
 ## Linguagens e Ferramentas
 
